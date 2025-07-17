@@ -79,8 +79,8 @@ QSAR-GUI-Project/
 └── PDB_OF_CE/              # Molecular structure data
     ├── Alpha_CE_Combined/   # 55 ERα CE complexes
     ├── Beta_CE_Combined/    # 55 ERβ CE complexes
-    ├── Alpha_T50_Combined/  # 50 ERα T50 complexes
-    └── Beta_T50_Combined/   # 50 ERβ T50 complexes
+    ├── Alpha_T50_Combined/  # 51 ERα T50 complexes
+    └── Beta_T50_Combined/   # 51 ERβ T50 complexes
 ```
 
 ## Usage
@@ -169,8 +169,7 @@ This application is designed for research and educational use. Please cite the o
 
 ## Contact
 
-For questions or issues: Contact the development team
+This application is designed for research and educational use. Please cite the original source when using this data.
 
----
+For questions or issues: Contact Dr. Sivanesan Dakshanamurthy, PhD., MBA (sivanesan.dakshanamurthy@georgetown.edu)
 
-**Note**: This application provides interactive visualization of PFAS ligand-receptor complexes for research and educational purposes. The molecular structures represent computational docking results and should be validated experimentally for research applications. 
